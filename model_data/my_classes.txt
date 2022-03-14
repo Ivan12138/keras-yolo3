@@ -1,0 +1,5 @@
+pre carrier
+bulk cargo carrier
+general cargo ship
+fishing boat
+passenger ship
