@@ -262,6 +262,7 @@ if __name__ == '__main__':
     #     # file.write(portion[1]+' detect_result：\n')
     #     file.write(image_path + ' ')
     #     image = Image.open(image_path)
+    #     需要将原始图片复制到如下目录
     #     image_mAP_save_path = dir_project + '/mAP/input/images-optional/'
     #     image.save(image_mAP_save_path + filename + '.jpg')
     #     r_image = yolo.detect_image(image)
